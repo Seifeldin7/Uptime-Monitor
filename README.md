@@ -1,6 +1,20 @@
+### Installation
+
+1. Clone the repo
+
+```sh
+git clone https://github.com/Seifeldin7/Uptime-Monitor
+```
+
+2. Install dependencies
+
+```sh
+npm install
+```
+
 ### Running
 
-1. Running on development
+Running on development
 
 ```sh
 npm start
