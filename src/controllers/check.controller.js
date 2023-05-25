@@ -35,7 +35,7 @@ exports.updateCheck = async (req, res, next) => {
   );
   updatedCheck.job = scheduleCheck(updatedCheck);
 
-  res.status(httpStatus.OK).json(check);
+  res.status(httpStatus.OK).json(updatedCheck);
 };
 
 // Delete a check
