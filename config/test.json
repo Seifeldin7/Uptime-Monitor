@@ -1,0 +1,12 @@
+{
+  "JWT_KEY": "1234",
+  "JWT_EXPIRES_IN": "30d",
+  "db": "mongodb://localhost:27017/bosta_test",
+  "PORT": "3000",
+  "NODE_ENV": "test",
+  "MAIL_HOST": "127.0.0.1",
+  "MAIL_PORT": "587",
+  "MAIL_USER": "s.seif26@yahoo.com",
+  "MAIL_PASS": "0000",
+  "DEFAULT_TIMEOUT": 10
+}
